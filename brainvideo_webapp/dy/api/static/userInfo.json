@@ -1,0 +1,22 @@
+{
+    "userInfo": {
+        "name": "Rick",
+        "avathor": "https://imgsa.baidu.com/forum/w%3D580/sign=833193c9592c11dfded1bf2b53266255/02f864deb48f8c547506910534292df5e1fe7f69.jpg",
+        "sid": "Z12116066",
+        "desc": "Wubba lubba dub dub",
+        "age": "23",
+        "sex": "男",
+        "birthday": "2001-08-26",
+        "region": "安徽",
+        "tag": "",
+        "school": "安徽大学",
+        "like": 0,
+        "follow": 0,
+        "fans": 0,
+        "vlist": {
+            "works": [],
+            "private": [],
+            "likes": []
+        }
+    }
+}
